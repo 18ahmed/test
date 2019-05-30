@@ -1,0 +1,1 @@
+your version is redhat-release-server-7.6-4.el7.x86_64
